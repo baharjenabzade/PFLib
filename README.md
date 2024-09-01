@@ -1,2 +1,2 @@
 # PFLib
-A library for federated learning
+A Personalized Federated Learning framework that enhances the privacy with minimum computational overhead
